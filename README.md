@@ -1,7 +1,15 @@
 # Matplotlib-Mini-Projects
-This repository is mainly based on what I am learning from the freeCodeCamp video on Matplotlib. This is part of my #100DaysOfCode challenge.
+This repository is primarily based on what I am learning from the freeCodeCamp video on Matplotlib, which is called [Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4). 
+
+This repository is part of my #100DaysOfCode challenge.
+
+I have completely written all the code in this repository from scratch, with my own variations, notes and techniques.
+
+The original GitHub repository mentioned in the YouTube video is [GitHub Link](https://github.com/KeithGalli/matplotlib_tutorial)
 
 
+
+Below are some resources that I found useful while setting up the Matplotlib library on my system.
 
 ## References
 
